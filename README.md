@@ -8,11 +8,9 @@ The n-queens puzzle is the problem of placing n chess queens on an n×n chessboa
 
 ## Counting Solutions
 The following tables give the number of solutions for placing n queens on an n × n board, both fundamental (sequence [A002562](https://oeis.org/A002562) in the [OEIS](https://en.wikipedia.org/wiki/On-Line_Encyclopedia_of_Integer_Sequences)) and all (sequence [A000170](https://oeis.org/A000170) in the [OEIS](https://en.wikipedia.org/wiki/On-Line_Encyclopedia_of_Integer_Sequences)).
-
-<p align="center">
   
 | `n` | `fundamental` | `all` |
-| -: | -----------: | ---: |
+| :-: | :-----------: | :---: |
 | 1 | 1 | 1 |
 | 2 | 0 | 0 |
 | 3 | 0 | 0 |
@@ -40,8 +38,6 @@ The following tables give the number of solutions for placing n queens on an n �
 | 25 | 275,986,683,743,434 | 2,207,893,435,808,352 |
 | 26 | 2,789,712,466,510,289 | 22,317,699,616,364,044 |
 | 27 | 29,363,495,934,315,694 | 234,907,967,154,122,528 |
-  
-</p>
 
 The six queens puzzle has fewer solutions than the five queens puzzle.
 There is no known formula for the exact number of solutions, or even for its asymptotic behaviour. The [27×27](https://github.com/preusser/q27) board is the highest-order board that has been completely enumerated.
