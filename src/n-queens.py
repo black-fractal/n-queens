@@ -5,7 +5,8 @@ https://github.com/black-fractal/n-queens
 @black-fractal
 Vahid Khodabakhshi,
 vkhodabakhshi@ce.sharif.edu
-January 9, 2021
+Initiated Date: January 2, 2021
+Last modified date: January 9, 2021
 
 '''''''''''''''''''''''''''''
 
