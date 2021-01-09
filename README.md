@@ -57,10 +57,13 @@ There is no known formula for the exact number of solutions, or even for its asy
 ## Installation Steps
 1. Clone 'wikipedia-philosophy-game' from git:\
 `git clone https://github.com/black-fractal/n-queens.git`
+
 2. Change the directory:\
 `cd n-queens-main`
+
 3. Install the requirements:\
 `pip3 install -r requirements.txt`
+
 4. Enjoy the program:+1:
 
 ## Update to latest version:
@@ -69,7 +72,9 @@ Use following command to update to latest version:\
 
 ## Usage
 - To run with the normal crawler:\
-`python3 n-queens.py`
+`python3 n-queens.py`\
+![output-of-n-queens](https://github.com/black-fractal/n-queens/blob/main/img/output-of-n-queens.gif)\
+*Sample output*
 
 ## License
 This tools is licensed under the GPL-3.0 License. take a look at the [LICENSE](https://github.com/black-fractal/wikipedia-philosophy-game/blob/main/LICENSE) for information about it.
