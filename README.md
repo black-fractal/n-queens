@@ -1,7 +1,7 @@
 # N-Queens!
 The n-queens puzzle is the problem of placing n chess queens on an n×n chessboard so that no two queens threaten each other; thus, a solution requires that no two queens share the same row, column, or diagonal. Solutions exist for all natural numbers n with the exception of `n=2` and `n=3`.
 
-<p align="center">
+<p align="left">
   <img width="300" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Eight-queens-animation.gif"></br>
   <i>fig. 1: A sample iterations for finding a correct formation of 8 queens.</i>
 </p>
@@ -38,25 +38,6 @@ The following tables give the number of solutions for placing n queens on an n �
 | 25 | 275,986,683,743,434 | 2,207,893,435,808,352 |
 | 26 | 2,789,712,466,510,289 | 22,317,699,616,364,044 |
 | 27 | 29,363,495,934,315,694 | 234,907,967,154,122,528 |
-
-<p align="center"></p>
-<table>
-    <thead>
-        <tr>
-            <th align="left">Column1</th>
-            <th align="center">Column1</th>
-            <th align="right">Column1</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td align="left">Column1</td>
-            <td align="center">Column1</td>
-            <td align="right">Column1</td>
-        </tr>
-    </tbody>
-</table>
-<p></p>
 
 The six queens puzzle has fewer solutions than the five queens puzzle.
 There is no known formula for the exact number of solutions, or even for its asymptotic behaviour. The [27×27](https://github.com/preusser/q27) board is the highest-order board that has been completely enumerated.
