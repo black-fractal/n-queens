@@ -72,6 +72,7 @@ Use following command to update to latest version:\
 
 ## Usage
 - To run with the normal crawler:\
+`cd src`\
 `python3 n-queens.py`\
 ![output-of-n-queens](https://github.com/black-fractal/n-queens/blob/main/img/output-of-n-queens.gif)\
 *Sample output*
