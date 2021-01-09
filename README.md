@@ -45,3 +45,50 @@ The following tables give the number of solutions for placing n queens on an n Ã
 
 The six queens puzzle has fewer solutions than the five queens puzzle.
 There is no known formula for the exact number of solutions, or even for its asymptotic behaviour. The [27Ã—27](https://github.com/preusser/q27) board is the highest-order board that has been completely enumerated.
+
+FORMAT: 1A
+
+# Tables API 
+Note: Tables can be handcrafted or generated at <http://www.tablesgenerator.com/markdown_tables>.
+
+## Table 1
+**Discussion option 1**
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
+# Message [/pages]
+## Create a Message [POST]
+
+### Table 2
+**Discussion option 2**
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
++ Request (application/json)
+
+    ## Table 3
+    **Discussion option 3**
+
+    | Tables   |      Are      |  Cool |
+    |----------|:-------------:|------:|
+    | col 1 is |  left-aligned | $1600 |
+    | col 2 is |    centered   |   $12 |
+    | col 3 is | right-aligned |    $1 |
+
+    + Headers
+
+            Authorization:Bearer tokenString
+
+    + Body
+
+            { ... }
+
++ Response 201
