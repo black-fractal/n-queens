@@ -1,12 +1,12 @@
 # N-Queens!
 [![made-with-python](https://img.shields.io/badge/made%20with-Python%20%3E3-1f425f.svg?color=blueviolet&style=plastic&logo=python)](https://www.python.org/)
 [![ide](https://img.shields.io/badge/IDE-VSCode-yellowgreen?style=plastic&logo=visual-studio-code)](https://code.visualstudio.com/)
-![code-size](https://img.shields.io/github/languages/code-size/black-fractal/wikipedia-philosophy-game?style=plastic)
-![total-lines](https://img.shields.io/tokei/lines/github/black-fractal/wikipedia-philosophy-game?style=plastic&color=green)
-![commit-activity](https://img.shields.io/github/commit-activity/m/black-fractal/wikipedia-philosophy-game?color=brightgreen&style=plastic)
-![last-commit](https://img.shields.io/github/last-commit/black-fractal/wikipedia-philosophy-game?color=9cf&style=plastic)
-![downloads](https://img.shields.io/github/downloads/black-fractal/wikipedia-philosophy-game/total?style=plastic)
-![license](https://img.shields.io/github/license/black-fractal/wikipedia-philosophy-game?style=plastic)
+![code-size](https://img.shields.io/github/languages/code-size/black-fractal/n-queens?style=plastic)
+![total-lines](https://img.shields.io/tokei/lines/github/black-fractal/n-queens?style=plastic&color=green)
+![commit-activity](https://img.shields.io/github/commit-activity/m/black-fractal/n-queens?color=brightgreen&style=plastic)
+![last-commit](https://img.shields.io/github/last-commit/black-fractal/n-queens?color=9cf&style=plastic)
+![downloads](https://img.shields.io/github/downloads/black-fractal/n-queens/total?style=plastic)
+![license](https://img.shields.io/github/license/black-fractal/n-queens?style=plastic)
 
 **A `python` script that allows you to have all formations of n-queens puzzle!**
 
