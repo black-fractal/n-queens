@@ -3,7 +3,7 @@ The n-queens puzzle is the problem of placing n chess queens on an n×n chessboa
 
 <p align="center">
   <img width="300" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Eight-queens-animation.gif"></br>
-  A sample iterations for solving 8 queens.
+  <i>A sample iterations for finding a correct formation of 8 queens.</i>
 </p>
 
 ## Counting Solutions
