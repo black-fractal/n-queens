@@ -4,8 +4,8 @@ The n queens puzzle is the problem of placing n chess queens on an n×n chessboa
 ## Counting Solutions
 The following tables give the number of solutions for placing n queens on an n × n board, both fundamental (sequence [A002562](https://oeis.org/A002562) in the [OEIS](https://en.wikipedia.org/wiki/On-Line_Encyclopedia_of_Integer_Sequences)) and all (sequence [A000170](https://oeis.org/A000170) in the [OEIS](https://en.wikipedia.org/wiki/On-Line_Encyclopedia_of_Integer_Sequences)).
 
-| n | fundamental | all |
-| - | ----------- | --- |
+| `n` | `fundamental` | `all` |
+| -: | -----------: | ---: |
 | 1 | 1 | 1 |
 | 2 | 0 | 0 |
 | 3 | 0 | 0 |
