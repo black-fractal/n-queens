@@ -64,7 +64,7 @@ def queens( n, second ):
 The function print chess board
 using ASCII characters as a table
 ----------------------------------'''
-def chess_show( o, queen='Q', blank='.' ):
+def ascii_chessboard_show( o, queen='Q', blank='.' ):
     global COUNTER
     COUNTER += 1
     l = len(o)
@@ -90,7 +90,7 @@ def main():
     sleep_seconds = 1
     for i in queens( num_of_queens, sleep_seconds ):
         print( i )
-        chess_show( i, 'Q', '.' )
+        ascii_chessboard_show( i, 'Q', '.' )
 
 if __name__ == "__main__":
     main()
