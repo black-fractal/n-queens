@@ -18,7 +18,7 @@ COUNTER = 0
 '''-----------------------------------------------------------------
 The function checks that no two queens threaten each other.
 thus, a solution requires that no two queens share the same
-row, column, or diagonal. the function gives a list (each
+row, column, or diagonal. the function gets a list (each
 element's index shows the row and element's value shows column
 of located queen). In this formation no two queens are located
 in the same row or column; So it is enough to check that no two
