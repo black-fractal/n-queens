@@ -56,7 +56,7 @@ The six queens puzzle has fewer solutions than the five queens puzzle.
 There is no known formula for the exact number of solutions, or even for its asymptotic behaviour. The [27×27](https://github.com/preusser/q27) board is the highest-order board that has been completely enumerated.
 
 ## Installation Steps
-1. Clone 'wikipedia-philosophy-game' from git:\
+1. Clone 'n-queens' from git:\
 `git clone https://github.com/black-fractal/n-queens.git`
 
 2. Change the directory:\
