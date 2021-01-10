@@ -81,6 +81,6 @@ Use following command to update to latest version:\
 ## License
 This tools is licensed under the GPL-3.0 License. take a look at the [LICENSE](https://github.com/black-fractal/wikipedia-philosophy-game/blob/main/LICENSE) for information about it.
 
-![watch](https://img.shields.io/github/watchers/black-fractal/wikipedia-philosophy-game?label=watch&style=social)
+![watch](https://img.shields.io/github/watchers/black-fractal/n-queens?label=watch&style=social)
 [![twitter](https://img.shields.io/twitter/follow/V4HlD?color=yellow&label=twitter%20follow&style=social)](https://twitter.com/V4HlD)
 
